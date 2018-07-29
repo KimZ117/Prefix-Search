@@ -1,0 +1,41 @@
+
+Prefix: Shan
+key: Shanghai, China --> weight: 14608512
+key: Shantou, China --> weight: 1333973
+key: Shangyu, China --> weight: 770000
+key: Shangrao, China --> weight: 318769
+key: Shangqiu, China --> weight: 181218
+key: Shanwei, China --> weight: 165699
+key: Shangzhi, China --> weight: 82419
+key: Shanting, China --> weight: 80843
+key: Shangmei, China --> weight: 75233
+key: Shancheng, China --> weight: 74459
+key: Shanhetun, China --> weight: 57550
+key: Shani, Nigeria --> weight: 14305
+key: Shankargarh, India --> weight: 14137
+key: Shannon, Ireland --> weight: 8781
+key: Shanga, Nigeria --> weight: 7471
+key: Shangjie, China --> weight: 7280
+key: Shanyang, China --> weight: 6810
+key: Shantobe, Kazakhstan --> weight: 5626
+key: Shanor-Northvue, Pennsylvania, United States --> weight: 5051
+key: Shangani, Zimbabwe --> weight: 3835
+key: Shannondale, West Virginia, United States --> weight: 3358
+key: Shannon Hills, Arkansas, United States --> weight: 3143
+key: Shanmen, China --> weight: 3130
+key: Shanxia, China --> weight: 3093
+key: Shannon, Georgia, United States --> weight: 1862
+key: Shannon, Mississippi, United States --> weight: 1753
+key: Shangcang, China --> weight: 1312
+key: Shandon, California, United States --> weight: 1295
+key: Shangliang, China --> weight: 600
+
+Prefix: Melb
+key: Melbourne, Victoria, Australia --> weight: 3730206
+key: Melbourne, Florida, United States --> weight: 76068
+key: Melbourne, United Kingdom --> weight: 4404
+key: Melbourn, United Kingdom --> weight: 4394
+key: Melbeck, Germany --> weight: 3358
+key: Melbourne Beach, Florida, United States --> weight: 3101
+key: Melbu, Norway --> weight: 2161
+key: Melbourne, Arkansas, United States --> weight: 1848
